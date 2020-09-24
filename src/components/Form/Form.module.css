@@ -1,0 +1,21 @@
+.BoxContainer {
+    background-color: cornsilk;
+    box-sizing: border-box;
+    box-shadow: 5px 5px 18px #888888;
+    border-radius: 2px;
+    padding: 50px 0;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.BoxContainer p{
+    color: darkgray;
+    font-size: 14px;
+}
+
+.BoxContainer p a{
+    text-decoration: none;
+    color: #00b242;
+}
